@@ -1,5 +1,5 @@
 # 🎮 Arcade | Robotics Projects
-Posting my Instagram projects' descriptions and code in here.
+Posting my Instagram projects' description and code in here.
 
 ## Contact
 📷 Instagram
